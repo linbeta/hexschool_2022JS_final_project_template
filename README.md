@@ -14,4 +14,4 @@
 5. [codepen 範例程式碼](https://codepen.io/hexschool/pen/JjERgYq?editors=0010)
 
 ### 注意事項
-前台網頁```index.html```中，c3, d3, axios的<script>我先放在head，如果使用上有問題再自行移到body最後測試看看！（比照```orders.html```的使用方式）
+c3, d3, axios和自己寫的<script>需要放到body最後！
